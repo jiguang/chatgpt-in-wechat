@@ -9,3 +9,5 @@ npm i wechaty
 npm i openai
 node bot.js
 ```
+
+[!screenshot](https://github.com/jiguang/chatgpt-in-wechat/blob/54fc85ca427f2148ec4fc6af06cd24e2c947c795/screenshot.jpeg)
