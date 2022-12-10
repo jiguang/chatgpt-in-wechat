@@ -1,11 +1,11 @@
 import { WechatyBuilder } from 'wechaty'
 import { Configuration, OpenAIApi } from 'openai'
 
-const openai = new OpenAIApi(configuration);
 const configuration = new Configuration({
     // get a key from https://beta.openai.com/account/api-keys
     apiKey: 'YOUR API KEY',
 });
+const openai = new OpenAIApi(configuration);
 
 async function main () {
     const bot = WechatyBuilder.build({
