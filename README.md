@@ -1,7 +1,7 @@
 # chatgpt-in-wechat
 An example of ChatGPT in Wechat.
 
-1. Prepare a wechat account that surports [web api](https://wx.qq.com).(or you can change wechaty puppet to padchat.)
+1. Prepare a wechat account that surports [web api](https://wx.qq.com).(or you can [change wechaty puppet to padchat](https://wechaty.js.org/docs/puppet-providers/wechat#known-issues).)
 2. Get an API KEY from https://beta.openai.com/account/api-keys (how to regist? it's another question.)
 3. Node version >= 16.
 
